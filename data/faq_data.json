@@ -1,0 +1,88 @@
+[
+    {
+        "category": "college_admission",
+        "question": "What are the eligibility criteria for B.Tech admission?",
+        "answer": "Students must have completed 12th standard with Physics and Mathematics as compulsory subjects. The minimum marks requirement depends on the college and admission authority."
+    },
+    {
+        "category": "college_admission",
+        "question": "What documents are required for college admission?",
+        "answer": "Students generally need their 10th marks card, 12th marks card, transfer certificate, migration certificate if applicable, identity proof, passport-size photographs and other documents requested by the college."
+    },
+    {
+        "category": "college_admission",
+        "question": "How can I apply for college admission?",
+        "answer": "Students can apply through the college admission portal or the applicable centralized admission process. They should fill in the application form, upload the required documents and complete the application fee payment if applicable."
+    },
+    {
+        "category": "college_admission",
+        "question": "Is an entrance exam required for B.Tech admission?",
+        "answer": "Entrance exam requirements depend on the college and admission category. Students should check the official admission notification for the applicable entrance examination."
+    },
+    {
+        "category": "college_admission",
+        "question": "What courses are available in the college?",
+        "answer": "The college may offer programs such as Computer Science and Engineering, Artificial Intelligence, Electronics and Communication Engineering, Mechanical Engineering and other programs depending on the institution."
+    },
+    {
+        "category": "college_admission",
+        "question": "When does college admission usually start?",
+        "answer": "Admission dates vary by college and academic year. Students should check the official college website or admission notification for current dates."
+    },
+    {
+        "category": "college_admission",
+        "question": "Is there an application fee for admission?",
+        "answer": "Some colleges charge an application fee while others may not. The applicable fee will be shown on the official admission application portal."
+    },
+    {
+        "category": "college_admission",
+        "question": "Can I apply for admission online?",
+        "answer": "Yes. Many colleges provide an online admission application facility through their official website."
+    },
+
+    {
+        "category": "internship",
+        "question": "How can students apply for an internship?",
+        "answer": "Students can apply through company career portals, internship platforms, college placement cells, LinkedIn or by contacting the company's HR or recruitment team."
+    },
+    {
+        "category": "internship",
+        "question": "What skills are required for an AI internship?",
+        "answer": "Useful skills include Python, Machine Learning fundamentals, Data Structures, SQL, Mathematics, basic Deep Learning and familiarity with AI tools and libraries."
+    },
+    {
+        "category": "internship",
+        "question": "What skills are required for a software development internship?",
+        "answer": "Useful skills include programming fundamentals, Java or Python, Data Structures and Algorithms, SQL, Git, HTML, CSS, JavaScript and basic knowledge of software development."
+    },
+    {
+        "category": "internship",
+        "question": "How long does an internship usually last?",
+        "answer": "Internship duration varies by company and role. It may range from a few weeks to several months."
+    },
+    {
+        "category": "internship",
+        "question": "Is a resume required to apply for an internship?",
+        "answer": "Most companies require a resume when students apply for internships. A good resume should include education, technical skills, projects, certifications and relevant achievements."
+    },
+    {
+        "category": "internship",
+        "question": "Do companies conduct interviews for internships?",
+        "answer": "Many companies conduct an interview or technical assessment before selecting an intern. The selection process depends on the company and internship role."
+    },
+    {
+        "category": "internship",
+        "question": "Can third year students apply for internships?",
+        "answer": "Yes. Many companies allow third year students to apply for internships, although eligibility requirements vary by company and internship role."
+    },
+    {
+        "category": "internship",
+        "question": "What should I prepare for an internship interview?",
+        "answer": "Students should prepare programming fundamentals, Data Structures and Algorithms, SQL, projects mentioned on their resume, technical concepts related to the internship role and common HR interview questions."
+    },
+    {
+        "category": "internship",
+        "question": "Are internships paid?",
+        "answer": "Some internships are paid and some are unpaid. Stipend policies vary by company, role and internship program."
+    }
+]

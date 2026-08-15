@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!-- Defines character encoding -->
+    <meta charset="UTF-8">
+
+    <!-- Makes the website responsive on mobile -->
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <!-- Website title -->
+    <title>
+        🎓 CAMPUS GENIE
+    </title>
+
+    <!-- Connect our CSS file -->
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
+
+</head>
+
+
+<body>
+
+    <!-- Main chatbot container -->
+    <div class="chat-container">
+
+
+        <!-- Header -->
+        <header class="chat-header">
+
+            <div>
+
+                <h1>
+                    🎓 CAMPUS GENIE
+                </h1>
+
+                <p>
+                    Ask questions about college admission
+                    and internships
+                </p>
+
+            </div>
+
+        </header>
+
+
+        <!-- Chat messages will appear here -->
+        <main
+            id="chatMessages"
+            class="chat-messages"
+        >
+
+            <!-- Initial bot message -->
+           <div class="message bot-message">
+
+    <div class="message-bubble">
+
+        <strong>Hello! 👋</strong>
+
+        <p>I can answer questions about:</p>
+
+        <ul>
+            <li>College admission</li>
+            <li>Eligibility</li>
+            <li>Required documents</li>
+            <li>Internships</li>
+            <li>Internship skills</li>
+            <li>Interview preparation</li>
+        </ul>
+
+    </div>
+
+</div>
+        </main>
+
+
+        <!-- Question input area -->
+        <form
+            id="chatForm"
+            class="chat-input-area"
+        >
+
+            <!-- User enters question here -->
+            <input
+                type="text"
+                id="questionInput"
+                placeholder="Ask your question..."
+                autocomplete="off"
+                required
+            >
+
+            <!-- Send button -->
+            <button
+                type="submit"
+                id="sendButton"
+            >
+                Send
+            </button>
+
+        </form>
+
+
+    </div>
+
+
+    <!-- Connect JavaScript -->
+    <script src="script.js"></script>
+
+</body>
+
+</html>
