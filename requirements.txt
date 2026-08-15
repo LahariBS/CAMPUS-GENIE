@@ -1,24 +1,8 @@
-# Sentence Transformer model for creating embeddings
-sentence-transformers
-
-
-# FAISS is used for vector similarity search
-faiss-cpu
-
-
-pydantic
-
-# OpenAI API communication
-openai
-
-
-# Load environment variables
-python-dotenv
-
-
-# Data processing
-numpy
-
-uvicorn
-
 fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+pydantic
+openai
+python-dotenv
+numpy
