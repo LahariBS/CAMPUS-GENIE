@@ -1,0 +1,49 @@
+# 🎓 Campus Genie
+
+## AI-Powered College Admission & Internship Assistant
+
+Campus Genie is an AI chatbot that helps students get information about:
+
+- College admission
+- Eligibility
+- Required documents
+- Internships
+- Internship skills
+- Interview preparation
+
+The project uses **RAG (Retrieval-Augmented Generation)** to retrieve relevant FAQs and generate answers using a local **Llama 3.2 3B** model.
+
+## Features
+
+- 🤖 AI-powered chatbot
+- 🔍 FAQ semantic search
+- ⚡ FAISS vector database
+- 🧠 Sentence Transformers
+- 🦙 Llama 3.2 3B
+- 🚀 FastAPI backend
+- 💻 HTML, CSS and JavaScript frontend
+- 🌙 Dark-themed interface
+
+## Technologies Used
+
+- Python
+- FastAPI
+- Sentence Transformers
+- FAISS
+- Ollama
+- Llama 3.2 3B
+- HTML
+- CSS
+- JavaScript
+
+## Project Structure
+
+```text
+CAMPUS-GENIE/
+│
+├── backend/
+├── data/
+├── frontend/
+├── vector_store/
+├── requirements.txt
+└── README.md
