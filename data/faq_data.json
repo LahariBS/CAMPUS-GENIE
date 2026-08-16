@@ -39,12 +39,21 @@
         "question": "Can I apply for admission online?",
         "answer": "Yes. Many colleges provide an online admission application facility through their official website."
     },
-
+ {
+        "category": "college_admission",
+        "question": "what and all course are available in AJIET institute?",
+        "answer":  "<h3>Undergraduate Programs (B.E.)</h3><ul><li>Computer Science and Engineering</li><li>Information Science and Engineering</li><li>Electronics and Communication Engineering</li><li>Electrical and Electronics Engineering</li><li>Mechanical Engineering</li><li>Civil Engineering</li><li>Artificial Intelligence and Data Science</li><li>Internet of Things (IoT) and Cyber Security including Blockchain</li></ul><h3>Postgraduate Programs (PG)</h3><ul><li>Master of Business Administration (MBA)</li><li>Master of Computer Applications (MCA)</li></ul>"
+},
     {
         "category": "internship",
         "question": "How can students apply for an internship?",
         "answer": "Students can apply through company career portals, internship platforms, college placement cells, LinkedIn or by contacting the company's HR or recruitment team."
     },
+    {
+        "category": "college_admission",
+        "question": "what and all course are available in AJIET institute?",
+        "answer":  "<h3>Undergraduate Programs (B.E.)</h3><ul><li>Computer Science and Engineering</li><li>Information Science and Engineering</li><li>Electronics and Communication Engineering</li><li>Electrical and Electronics Engineering</li><li>Mechanical Engineering</li><li>Civil Engineering</li><li>Artificial Intelligence and Data Science</li><li>Internet of Things (IoT) and Cyber Security including Blockchain</li></ul><h3>Postgraduate Programs (PG)</h3><ul><li>Master of Business Administration (MBA)</li><li>Master of Computer Applications (MCA)</li></ul>"
+},
     {
         "category": "internship",
         "question": "What skills are required for an AI internship?",
@@ -84,5 +93,34 @@
         "category": "internship",
         "question": "Are internships paid?",
         "answer": "Some internships are paid and some are unpaid. Stipend policies vary by company, role and internship program."
-    }
+    },
+
+  {"category": "college_admission",
+    "question": "What courses are available at AJIET?",
+    "answer": "A.J. Institute of Engineering and Technology (AJIET) offers Undergraduate, Postgraduate and Doctoral programs.\n\nUndergraduate Programs (B.E.)\n• Computer Science and Engineering\n• Information Science and Engineering\n• Electronics and Communication Engineering\n• Electrical and Electronics Engineering\n• Mechanical Engineering\n• Civil Engineering\n• Artificial Intelligence and Data Science\n• Internet of Things (IoT) and Cyber Security including Blockchain\n\nPostgraduate Programs (PG)\n• Master of Business Administration (MBA)\n• Master of Computer Applications (MCA)\n\nDoctoral Programs (Ph.D.)\n• Ph.D. in Physics\n• Ph.D. in Chemistry\n• Ph.D. in Mathematics"
+  },
+  {"category": "college_admission",
+    "question": "What is the cost of studying Computer Science at AJIET through CET?",
+    "answer": "The approximate total tuition fee for the B.E. Computer Science and Engineering program through the government/CET quota is ₹3,86,296 for the entire 4-year course. Additional university registration, skill lab and other miscellaneous charges may apply."
+  },
+  {"category": "college_admission",
+    "question": "Where is AJIET located?",
+    "answer": "A.J. Institute of Engineering and Technology (AJIET) is located at NH-66, Kottara Chowki, Mangaluru, Karnataka – 575006."
+  },
+  {"category": "college_admission",
+    "question": "What is the address of AJIET?",
+    "answer": "A.J. Institute of Engineering and Technology (AJIET), NH-66, Kottara Chowki, Mangaluru, Karnataka – 575006."
+  },
+  {"category": "college_admission",
+    "question": "How long is the B.E. Computer Science course at AJIET?",
+    "answer": "The B.E. Computer Science and Engineering program at AJIET has a duration of 4 years."
+  },
+  {"category": "college_admission",
+    "question": "What postgraduate courses are available at AJIET?",
+    "answer": "AJIET offers the following postgraduate programs:\n\n• Master of Business Administration (MBA)\n• Master of Computer Applications (MCA)"
+  },
+  {"category": "college_admission",
+    "question": "What Ph.D. programs are available at AJIET?",
+    "answer": "The available doctoral programs mentioned are:\n\n• Ph.D. in Physics\n• Ph.D. in Chemistry\n• Ph.D. in Mathematics"
+  }
 ]

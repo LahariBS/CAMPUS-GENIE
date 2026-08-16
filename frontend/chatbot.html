@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Campus Genie | AI Chatbot</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+    <!-- =====================================================
+         NAVBAR
+         ===================================================== -->
+
+    <header class="navbar">
+
+        <a href="index.html" class="logo">
+            🎓 <span>CAMPUS</span> <b>GENIE</b>
+        </a>
+
+        <nav>
+
+            <a href="index.html">
+                Home
+            </a>
+
+            <a href="admission.html">
+                Admission
+            </a>
+
+            <a href="internships.html">
+                Internships
+            </a>
+
+            <a href="chatbot.html" class="active">
+                Chatbot
+            </a>
+
+            <a href="login.html" class="login-btn">
+                ♙ Login
+            </a>
+
+        </nav>
+
+    </header>
+
+
+    <!-- =====================================================
+         CHATBOT
+         ===================================================== -->
+
+    <main class="chat-page">
+
+
+        <!-- Sidebar -->
+
+        <aside class="chat-sidebar">
+
+            <button
+                class="new-chat-btn"
+                onclick="location.reload()"
+            >
+                ＋ New Chat
+            </button>
+
+            <div class="sidebar-item">
+                ◷ Chat History
+            </div>
+
+            <div class="sidebar-item">
+                ☆ Saved Chats
+            </div>
+
+        </aside>
+
+
+        <!-- Chat section -->
+
+        <section class="chat-area">
+
+
+            <!-- Chat heading -->
+
+            <div class="chat-title">
+
+                <h1>
+                    Chat with Genie ✨
+                </h1>
+
+                <p>
+                    Ask anything about college admission,
+                    internships, skills and more.
+                </p>
+
+            </div>
+
+
+            <!-- Messages -->
+
+            <div
+                id="chatMessages"
+                class="chat-messages"
+            >
+
+                <!-- Initial message -->
+
+                <div class="message bot-message">
+
+                    <div class="message-bubble">
+
+                        <strong>
+                            Hi! I'm Genie 🤖
+                        </strong>
+
+                        <p>
+                            How can I help you today?
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- Input -->
+
+            <form
+                id="chatForm"
+                class="chat-input-area"
+            >
+
+                <input
+                    type="text"
+                    id="questionInput"
+                    placeholder="Type your question here..."
+                    autocomplete="off"
+                    required
+                >
+
+                <button
+                    type="submit"
+                    id="sendButton"
+                >
+                    ➤
+                </button>
+
+            </form>
+
+        </section>
+
+    </main>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
