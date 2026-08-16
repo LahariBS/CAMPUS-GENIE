@@ -28,7 +28,7 @@ const sendButton =
 
 // This is the address where FastAPI is running.
 const API_URL =
-    "http://127.0.0.1:8000/ask";
+    "https://campus-genie-l2ym.onrender.com/ask";
 
 
 // =========================================================
