@@ -122,5 +122,21 @@
   {"category": "college_admission",
     "question": "What Ph.D. programs are available at AJIET?",
     "answer": "The available doctoral programs mentioned are:\n\n• Ph.D. in Physics\n• Ph.D. in Chemistry\n• Ph.D. in Mathematics"
-  }
+  },
+  {
+    "category": "college_admission",
+    "question": "how to apply internship",
+    "answer": " Prepare Your MaterialsBuild a clear, one-page resume highlighting your education, key projects, and relevant skills.Write a short, targeted cover letter explaining why you fit the specific role.Gather proof of work, such as GitHub links, design portfolios, or articles you wrote.Search for OpeningsCheck official company career pages for direct programs.Use professional networks like LinkedIn to search for active entry-level or intern posts.Explore national portals like the AICTE Internship Portal for verified student listings across India.Submit and NetworkApply promptly using direct submission forms or quick application links.Send a polite message to the hiring manager or recruiter on professional networks to express your interest.Follow up if you do not hear back within one to two weeks."
+}
+,
+  {"category": "college_admission",
+    "question": "What  Soft Skills requierd?",
+    "answer": "Communication: Writing clear emails, speaking professionally, and actively listening during team briefings.Problem-Solving: The ability to analyze a roadblock, research a fix, and propose logical solutions.Initiative: Taking action or picking up minor tasks on your own without waiting for explicit instructions.Adaptability: Adjusting quickly to fast-changing environments, shifting priorities, and taking feedback constructively."
+  },
+{
+  "category": "college_admission",
+  "question": "What is the admission process at AJIET?",
+  "answer": "<h3>Undergraduate (B.E. / B.Tech) Admission Process</h3><ul><li><strong>Eligibility:</strong> Candidates should have passed 2nd year PUC, 12th standard, or an equivalent examination with Physics and Mathematics as compulsory subjects, along with one of Chemistry, Biotechnology, Computer Science, Biology, or Electronics. A minimum aggregate of 45% marks is generally required, with applicable relaxation for reserved categories.</li><li><strong>Entrance Exams:</strong> Admission may be through KCET conducted by KEA or COMEDK UGET, depending on the applicable admission category. Other institutional admission processes may also apply for specific seats.</li><li><strong>Lateral Entry:</strong> Diploma holders can apply for admission directly to the 3rd semester of the B.E. program, subject to the applicable eligibility requirements.</li><li><strong>Counselling &amp; Allotment:</strong> Eligible students participate in the applicable KEA or COMEDK counselling and seat-allotment process. After allotment, students complete document verification, fee payment, and other admission formalities at AJIET.</li></ul><h3>Postgraduate (MBA / MCA) Admission Process</h3><ul><li><strong>Eligibility:</strong> Candidates should hold a recognized bachelor's degree and meet the minimum percentage requirements prescribed for the respective program.</li><li><strong>Entrance Exams:</strong> Admission may involve Karnataka PGCET or other approved entrance examinations, depending on the course and admission category.</li><li><strong>Selection:</strong> Shortlisted candidates complete the required application, document verification, counselling, fee payment, and other admission formalities through the applicable admission process.</li></ul><h3>Ph.D. Admission</h3><ul><li>Candidates seeking Ph.D. admission must meet the academic eligibility requirements specified for the respective research program.</li><li>Admission generally involves the prescribed entrance examination and/or selection process followed by document verification and other university/institute formalities.</li></ul><p><strong>Note:</strong> Admission rules, eligibility, entrance examinations, fees, and important dates can change. Students should check the official AJIET admission notification for the latest information.</p>"
+}
+
 ]
